@@ -1,6 +1,6 @@
 # Todo SQL
 
-- [ ] Elephant SQL
+- [ ] Elephant SQL 
 - [ ] DBMS
 - [x] Intro to SQL
 - [x] ERDs
